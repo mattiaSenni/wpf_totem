@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVpp8X+Z2P0HREINUSH+Xk9jaeZA0mTjQ+cK/guyqxkUlL7+jDChamUzjp/caJ9ZsFC1xYFmQA24c3QfL7YOiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessandro.torchiani.ITT\\Downloads\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.torchiani.ITT\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
